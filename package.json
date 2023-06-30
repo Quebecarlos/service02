@@ -1,0 +1,23 @@
+{
+  "name": "labo01",
+  "version": "1.0.0",
+  "description": "labo01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quebecarlos/service02.git"
+  },
+  "author": "Carlos alberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quebecarlos/service02/issues"
+  },
+  "homepage": "https://github.com/Quebecarlos/service02#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.11.2"
+  }
+}
